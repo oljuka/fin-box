@@ -1,1 +1,5 @@
 FinBox.Web/.vs/FinBox.Web/v16/*
+*/bin/Debug/*
+FinBox.Web/FinBox.Storage/bin/Debug/*
+FinBox.Web/FinBox.Storage/obj/*
+FinBox.Web/.vs/*
